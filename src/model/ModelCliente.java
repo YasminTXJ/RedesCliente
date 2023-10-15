@@ -1,5 +1,7 @@
 package model;
 
+import java.io.PrintStream;
+
 public class ModelCliente {
 	private String host;
 	private int porta;
@@ -8,4 +10,5 @@ public class ModelCliente {
         this.host = host;
     }
   
+	
 }
